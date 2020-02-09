@@ -1,0 +1,12 @@
+Author: Matthew Hunt
+Stockton University - 2/6/19
+
+This is the complete programming assingment 1: BinaryExpressionTreeTraversal
+Included:
+	Runnable .jar file of program
+	Runnable .exe file of program
+	(Note: both .jar and .exe work the same way I created both just in case)
+	User Manual
+	original Java project source code
+	Powerpoint explaining the program
+	picture of the interface
